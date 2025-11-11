@@ -125,7 +125,7 @@ export default function Page() {
               price: "Premium",
               rating: 5,
               reviewCount: "250+",
-              imageSrc: "https://pixabay.com/get/g5d4770d93af3521eccbb7a7758d846ab3a062b1cbc556922ed93b25f0fd5da592ea22c667b96160add13c038a6a48b7b5fce18f7a87cb396ffe6d25930dcc6a3_1280.jpg",
+              imageSrc: "https://pixabay.com/get/gf744606ad5786942ada1c66487244427f2f901a1202408033443c40510a7513d50c03a63205f23b20b98f6971e3fdb48add06a865aa0cb7a08a41ac9f9307f47_1280.jpg",
               imageAlt: "Interior del restaurante Tottori en La Finca"
             },
             {
@@ -135,7 +135,7 @@ export default function Page() {
               price: "Premium",
               rating: 5,
               reviewCount: "180+",
-              imageSrc: "https://pixabay.com/get/g5d4770d93af3521eccbb7a7758d846ab3a062b1cbc556922ed93b25f0fd5da592ea22c667b96160add13c038a6a48b7b5fce18f7a87cb396ffe6d25930dcc6a3_1280.jpg",
+              imageSrc: "https://pixabay.com/get/gf744606ad5786942ada1c66487244427f2f901a1202408033443c40510a7513d50c03a63205f23b20b98f6971e3fdb48add06a865aa0cb7a08a41ac9f9307f47_1280.jpg",
               imageAlt: "Restaurante Tottori Madrid Centro"
             },
             {
@@ -145,7 +145,7 @@ export default function Page() {
               price: "Premium",
               rating: 5,
               reviewCount: "320+",
-              imageSrc: "https://pixabay.com/get/g5d4770d93af3521eccbb7a7758d846ab3a062b1cbc556922ed93b25f0fd5da592ea22c667b96160add13c038a6a48b7b5fce18f7a87cb396ffe6d25930dcc6a3_1280.jpg",
+              imageSrc: "https://pixabay.com/get/gf744606ad5786942ada1c66487244427f2f901a1202408033443c40510a7513d50c03a63205f23b20b98f6971e3fdb48add06a865aa0cb7a08a41ac9f9307f47_1280.jpg",
               imageAlt: "Restaurante Tottori Salamanca"
             }
           ]}
